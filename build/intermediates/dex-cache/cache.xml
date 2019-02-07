@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/hoangtubot/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/hoangtubot/Downloads/SDVCalendar-master/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hoangtubot/.gradle/caches/transforms-1/files-1.1/material-calendarview-1.4.3.aar/1613cebb54285ec430e027106a3bcc36/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5094eccf53998e9bcacfb85f80e7607b39b093fd">
+        <dex dex="/Users/hoangtubot/Downloads/SDVCalendar-master/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hoangtubot/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.2.21/3beb08c67673033183c8652572680587876e64b5/kotlin-stdlib-jre7-1.2.21.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3beb08c67673033183c8652572680587876e64b5">
+        <dex dex="/Users/hoangtubot/Downloads/SDVCalendar-master/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hoangtubot/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/Users/hoangtubot/Downloads/SDVCalendar-master/app/build/intermediates/transforms/preDex/release/29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hoangtubot/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.8.0.aar/7ce06e0e9c4ede7e531fc25e78f9b065/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a7760a45a6c9f425aaa43ef391a8cf28a8bcb4a1">
+        <dex dex="/Users/hoangtubot/Downloads/SDVCalendar-master/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hoangtubot/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/0f82e1ff53dd75a9d2e30413dcbab9aa/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="24cb9bae5fbe94df0f55d87452a291b69a2f22bf">
+        <dex dex="/Users/hoangtubot/Downloads/SDVCalendar-master/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hoangtubot/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/3e6c0a2e0c8ca86e7d92feb5d1092a66/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/hoangtubot/Downloads/SDVCalendar-master/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hoangtubot/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.21/d64187eb2d9d1521be3421aa8c6774a8625cdde8/kotlin-stdlib-1.2.21.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d64187eb2d9d1521be3421aa8c6774a8625cdde8">
+        <dex dex="/Users/hoangtubot/Downloads/SDVCalendar-master/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hoangtubot/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/2bae3febd368baa968e304a588202f59/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/hoangtubot/Downloads/SDVCalendar-master/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hoangtubot/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/hoangtubot/Downloads/SDVCalendar-master/app/build/intermediates/transforms/preDex/release/32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hoangtubot/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/hoangtubot/Downloads/SDVCalendar-master/app/build/intermediates/transforms/preDex/release/31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hoangtubot/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/aedd02e4f290feb7495a03050ce3b59c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/hoangtubot/Downloads/SDVCalendar-master/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hoangtubot/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/9a7b3305ebee4d6bb345704fd4f5761f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/Users/hoangtubot/Downloads/SDVCalendar-master/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hoangtubot/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/1cd0802ee6196122e3cb773adcdfd46d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/Users/hoangtubot/Downloads/SDVCalendar-master/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hoangtubot/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/ad6e4ebb2a04c128efe89f437e86b2bf/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/hoangtubot/Downloads/SDVCalendar-master/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hoangtubot/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/919b97df39f1354e4e4faadec84e7af3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/hoangtubot/Downloads/SDVCalendar-master/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hoangtubot/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.8.0.aar/e149a830d9b2539521f9e288cb91ea1b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aeca0a0ab86831ec59a54723205ce9341ac22d1b">
+        <dex dex="/Users/hoangtubot/Downloads/SDVCalendar-master/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hoangtubot/.gradle/caches/transforms-1/files-1.1/BottomNavigationViewEx-1.2.4.aar/3d357a5797462cba739e7588376e8cd4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e5b6d089eeb8c142de02e78f8fcbe512e95a652f">
+        <dex dex="/Users/hoangtubot/Downloads/SDVCalendar-master/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hoangtubot/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/c03d8e016ba7f67d2d947606b26f1921/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/hoangtubot/Downloads/SDVCalendar-master/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hoangtubot/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ab43e6dfedab2e80b1975146e994dcc8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/hoangtubot/Downloads/SDVCalendar-master/app/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hoangtubot/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/9b86b1a310ea8706451091a5827ab1e3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="/Users/hoangtubot/Downloads/SDVCalendar-master/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hoangtubot/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fe54461a5690fee7f469744b83827547/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/hoangtubot/Downloads/SDVCalendar-master/app/build/intermediates/transforms/preDex/release/30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hoangtubot/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ae749fd43b672c5b8faadea7b5bdf096/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/hoangtubot/Downloads/SDVCalendar-master/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hoangtubot/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/bf7c3f5f786c286d60458f88fb5156ef/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/hoangtubot/Downloads/SDVCalendar-master/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hoangtubot/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.0.2/b9cd8fc6bd15cb915735d34535db30ece0c44603/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/hoangtubot/Downloads/SDVCalendar-master/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hoangtubot/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/fd5a51538e54213343891475b8cd20b5/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/Users/hoangtubot/Downloads/SDVCalendar-master/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hoangtubot/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/159e3facaa767562584608c46ad07bc8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/hoangtubot/Downloads/SDVCalendar-master/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+
+</items>
